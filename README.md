@@ -27,12 +27,11 @@ Create simple working Todo application to get list of Todo's
     3. Get Todo by its ID - http://localhost:8081/todos/1
        
 ### Possible Exceptions
-1. If Todo is not present then you will get below exceptions.
+1. If Todo is not present then you will get exceptions->
    "Todo is not found."
 
 ## Tests
 1. Todo Controller test cases are written for POST, GET, PUT, DELETE.
 2. Todo Service layer test cases are written for create, update, delete, fetch operations.
 
-## Note:
-1. Please check the console logs for better understanding of algorithm written to find minimum discounted price for given shopping basket items.
+
